@@ -6,7 +6,7 @@ Make sure to use spaces (no tabs) and CRLF line endings for configs, and continu
 
 Command template:
 
-```
+```c
 // Description of the command.
 // Default: value
 //
